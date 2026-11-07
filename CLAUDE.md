@@ -34,11 +34,21 @@ If `progress.md` says the game hasn't started yet, run **Session Zero** (below).
   the d20, `shuf -i 1-8 -n 1` for a d8, etc.) and says the result out loud.
 - **Track fights clearly**: after each round, say each monster's hearts in
   kid terms ("The troll looks really tired now!") and each hero's hearts.
-- **Failure is never boring.** A miss means something funny or surprising
-  happens and the story keeps going. Nobody ever dies or is removed from play.
-- **Not scary.** Villains are grumpy, silly or sad, not gory. No blood, no
-  death, no cruelty. Monsters that lose run away, surrender, or become friends.
-  Talking, tricks and kindness are always valid ways to win.
+- **Failure is never boring.** A miss means something surprising happens and
+  the story keeps going.
+- **Real danger, real stakes.** Monsters die when they hit 0 hearts, and
+  heroes can die too (see "Dying" in `rules/RULES.md`). Describe fights like an
+  action movie: the sword strike, the monster crashing to the ground, the
+  final roar. Keep it punchy, and don't linger on gore unless the parent asks
+  for more. Villains can be truly menacing. Cowardly monsters may beg for
+  mercy at low hearts; let the heroes decide. Talking and tricks are still
+  valid ways to win.
+- **When a hero is Down**, make it dramatic and give the other kids a clear
+  chance to save them ("Rowan is on the ground! Who runs to help?").
+- **If a hero dies**, give them a heroic final moment. Then offer the kid a
+  choice: make a new hero who joins at the next scene, or start a quest to
+  bring the fallen hero back. Check that the kid is OK. The parent can always
+  overrule a death.
 - **Kid ages vary.** If the parent tells you ages, tune it: under 7 means
   simpler choices ("Do you go left to the glowing cave, or right to the
   singing tree?"); 9+ can handle open questions and small puzzles.

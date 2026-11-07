@@ -29,7 +29,7 @@ Roll the **d20** and add your **Hero Bonus**. Match or beat the target:
 | Hard | 16 |
 | Super hard | 20 |
 
-- **Natural 1** (the die shows 1): Oops! Something silly happens.
+- **Natural 1** (the die shows 1): Oops! It goes wrong in a surprising way.
 - **Natural 20**: AMAZING! It works in the coolest way possible.
 
 ## Fighting
@@ -47,9 +47,9 @@ Roll the **d20** and add your **Hero Bonus**. Match or beat the target:
 6. Monsters attack the same way: the Game Master rolls a d20 + the monster's
    Attack against **your Armor**, then rolls the monster's damage die.
 
-**When a monster hits 0 hearts it is *Defeated*:** it runs away, gives up,
-falls asleep or poofs into smoke. Nothing dies. Many monsters can also be
-**befriended** instead (see `MONSTERS.md`).
+**When a monster hits 0 hearts, it dies.** Some monsters try to flee or beg
+for mercy when they're nearly beaten, and the heroes decide what happens to
+them. Some can be **befriended or tricked** instead of fought (see `MONSTERS.md`).
 
 ## Teamwork
 
@@ -58,12 +58,31 @@ get **+2** on their next roll. Teamwork is the most powerful thing in the game.
 
 ## Hearts
 
-- At **0 hearts** you're *Knocked Silly*. You're dizzy, seeing stars, and
-  can't act until a friend spends their turn helping you up. You come back with
-  **3 hearts**.
+- At **0 hearts** you're **Down**: you fall and can't do anything (see
+  *Dying* below).
 - **A short rest** (a snack break in the story) brings back **d6 hearts**.
   **A night's sleep** brings back all of them.
 - **Healing Potion**: brings back **2d4 hearts**.
+
+## Dying ☠️
+
+When you're Down, at the start of each of your turns roll a **d20** (no
+bonus). This is a **Dying Roll**:
+
+- **10 or higher:** ✔️ a success. **Under 10:** ✖️ a fail.
+- **3 successes:** you wake up with **1 heart**.
+- **3 fails:** your hero **dies**.
+- **Natural 20:** you leap back up with **3 hearts**!
+- **Natural 1:** counts as **2 fails**.
+- Getting hit while you're Down counts as **1 fail**.
+
+**Saving a friend:** any healing (a potion, a healing power) gets them right
+back up with those hearts. Or spend your turn next to them and roll **12+**
+to stop the bleeding: they stop making Dying Rolls and wake up after the fight
+with 1 heart.
+
+**If a hero dies,** the player makes a new hero who joins at the next scene,
+or the team can go on a quest to bring them back.
 
 ## Stars ⭐ and Leveling Up
 

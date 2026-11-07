@@ -33,7 +33,7 @@ hero). Match or beat the target's Armor. Anyone can use any weapon. **Damage:** 
 |---|---|---|---|---|
 | Bubble Wand | +2 | d4 | 1 | Bubbled monsters are easier to hit: next attack on them gets +2. |
 | Shepherd's Staff | +1 | d6 | 2 | Instead of damage, can trip a monster (it loses its next turn). |
-| Lullaby Lute | +0 | d8 | 2 | Monsters it defeats fall fast asleep. Can't be used if you're shouting. |
+| Lullaby Lute | +0 | d8 | 2 | Can put a monster to sleep instead of killing it. Can't be used if you're shouting. |
 | Shield Bash | +1 | d4 | (shield) | Works while holding a shield and another weapon, but it uses your turn. |
 
 ## Treasure Weapons ✨ (found on adventures)

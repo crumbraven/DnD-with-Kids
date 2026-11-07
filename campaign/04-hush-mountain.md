@@ -25,8 +25,8 @@ keep her so it stays dark forever and he gets rich.
   rich (he's never had a friend either).
 - If Snip and Snorkel were befriended, they show up and sabotage the Golem.
 
-Whatever happens, Grizzlewick ends up stuck in a snowdrift, sneezing.
-Let the kids decide what to do with him. (Mercy should earn a ⭐.)
+If the heroes beat the Golem but not him, Grizzlewick ends up stuck in a
+snowdrift, begging for his life. Let the kids decide what to do with him.
 
 ## Ending
 At the summit, a silver cave glows. Inside, someone is crying softly.

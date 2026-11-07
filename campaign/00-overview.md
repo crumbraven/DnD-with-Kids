@@ -23,9 +23,10 @@ the dark to last forever. He's the real nuisance and a fun, silly villain.
 **The happy ending:** the heroes reach Nimbus and help her not be afraid of
 the dark. They can give her a lantern of her own, teach her the stars come
 back every night, or promise to visit. She returns the light, and Puddlebrook
-throws a festival in their honor. (Fighting Nimbus should never be the
-answer. If kids try, she just cries a big glowing tear that puts out their
-torch, and they realize she's sad, not mean.)
+throws a festival in their honor. (Nimbus can be fought, and she is
+*very* dangerous: see `rules/MONSTERS.md`. Before the first blow, give the kids
+a clear sign that she's scared, not evil. If they still slay her, the light
+returns, but it's a sad victory and the village mourns the last moon dragon.)
 
 ## Chapters
 
