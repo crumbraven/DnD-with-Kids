@@ -1,13 +1,13 @@
 # Weapons
 
-**To hit:** d20 + Hit Bonus (**+2 more** if the weapon matches your Best
-Thing). Match or beat the target's Armor. **Damage:** roll the damage die.
+**To hit:** d20 + the weapon's Hit Bonus + your Hero Bonus (+2 for a new
+hero). Match or beat the target's Armor. Anyone can use any weapon. **Damage:** roll the damage die.
 
-## Brave Weapons 💪 (up close)
+## Up-Close Weapons
 
 | Weapon | Hit Bonus | Damage | Hands | Special |
 |---|---|---|---|---|
-| Club | +1 | d4 | 1 | Anyone can use it: everyone gets +2 with a club. |
+| Club | +1 | d4 | 1 | Cheap and sturdy: never breaks, never gets stuck. |
 | Dagger | +1 | d4 | 1 | Can be thrown at things far away. |
 | Short Sword | +1 | d6 | 1 | Starter favorite. |
 | Spear | +0 | d6 | 1 | Can poke things 1 step away, or be thrown. |
@@ -15,7 +15,7 @@ Thing). Match or beat the target's Armor. **Damage:** roll the damage die.
 | Battle Hammer | +0 | d10 | 2 | On a hit, small monsters get knocked over (lose their next turn). |
 | Giant Axe | −1 | d12 | 2 | Can chop through doors and trees in one hit. |
 
-## Clever Weapons 🧠 (far away and magic)
+## Far-Away & Magic Weapons
 
 | Weapon | Hit Bonus | Damage | Hands | Special |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ Thing). Match or beat the target's Armor. **Damage:** roll the damage die.
 | Frost Staff | +0 | d8 | 2 | On a hit, the monster is slowed and goes last next round. |
 | Fire Orb | −1 | d12 | 1 | Once per fight: hit *every* monster in one group (roll to hit each). |
 
-## Kind Weapons 💛 (gentle)
+## Gentle Weapons
 
 | Weapon | Hit Bonus | Damage | Hands | Special |
 |---|---|---|---|---|
@@ -40,11 +40,11 @@ Thing). Match or beat the target's Armor. **Damage:** roll the damage die.
 
 | Weapon | Hit Bonus | Damage | Special |
 |---|---|---|---|
-| Glowblade | +2 | d8 | Glows like a lantern. Matches Brave. |
-| Thunder Hammer | +1 | d10 | Critical hit knocks over *every* nearby monster. Brave. |
-| Starlight Bow | +2 | d8 | Arrows never miss on a roll of 18 or higher. Clever. |
-| Wand of Many Colors | +2 | d10 | Each hit is a surprise color with a silly side effect. Clever. |
-| Friendship Flute | +2 | d8 | Defeated monsters become friends who help for one fight. Kind. |
+| Glowblade | +2 | d8 | Glows like a lantern. |
+| Thunder Hammer | +1 | d10 | Critical hit knocks over *every* nearby monster. |
+| Starlight Bow | +2 | d8 | Arrows never miss on a roll of 18 or higher. |
+| Wand of Many Colors | +2 | d10 | Each hit is a surprise color with a silly side effect. |
+| Friendship Flute | +2 | d8 | Defeated monsters become friends who help for one fight. |
 
 Each hero can add their own name to a treasure weapon ("Mira's Moon Sword").
 
@@ -53,7 +53,7 @@ Each hero can add their own name to a treasure weapon ("Mira's Moon Sword").
 ## Hit Chance Matrix
 
 What you need on the d20, and the chance, for any **total hit bonus**
-(weapon bonus + Best Thing +2 + level-up bonus) against any **Armor**.
+(weapon Hit Bonus + Hero Bonus) against any **Armor**.
 A 1 always misses and a 20 always hits.
 
 | Armor ↓ / Hit bonus → | +0 | +1 | +2 | +3 | +4 | +5 | +6 | +7 |
@@ -74,12 +74,12 @@ A 1 always misses and a 20 always hits.
 
 ## Weapon vs Armor Chart
 
-For a **starting hero using a weapon that matches their Best Thing**: the
+For a **starting hero (Hero Bonus +2)**: the
 chance to hit, then **average damage per swing** (counting misses). The
 crossbow's number is per shot, so halve it because of reloading. Two-handed
 weapons can't be used with a shield.
 
-| Weapon (with Best Thing +2) | Damage | vs Armor 10 | vs Armor 12 | vs Armor 14 | vs Armor 16 | vs Armor 18 |
+| Weapon (Hero Bonus +2) | Damage | vs Armor 10 | vs Armor 12 | vs Armor 14 | vs Armor 16 | vs Armor 18 |
 |---|---|---|---|---|---|---|
 | Club | d4 | 70% · 1.8 | 60% · 1.5 | 50% · 1.2 | 40% · 1.0 | 30% · 0.8 |
 | Dagger | d4 | 70% · 1.8 | 60% · 1.5 | 50% · 1.2 | 40% · 1.0 | 30% · 0.8 |

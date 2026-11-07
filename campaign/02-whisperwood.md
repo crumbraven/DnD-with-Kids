@@ -15,8 +15,8 @@ The path splits:
   mouse size for a few minutes! Silly fun: they meet a bossy beetle general
   who needs help finding his lost helmet (an acorn cap). Reward: a **Beetle
   Whistle** that summons a beetle army once.
-- **Right**: a patch of sticky honey-vines. Brave roll (12+) to pull free, or
-  Clever to figure out that singing makes the vines relax.
+- **Right**: a patch of sticky honey-vines. Roll 12+ to pull free, or
+  figure out that singing makes the vines relax.
 
 ## Scene 3: Grizzlewick's Trap
 Grizzlewick has set a trap: a net hanging from a tree, baited with a jar of

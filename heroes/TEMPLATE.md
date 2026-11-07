@@ -2,7 +2,7 @@
 
 - **Played by:** (kid's name, age)
 - **What I am:**
-- **Best Thing:** Brave / Clever / Kind
+- **Hero Bonus:** +2 (add to every d20 roll)
 - **Special Power:**
 - **Fun detail:** (a pet, a catchphrase, a favorite food, a funny hat...)
 - **Hearts:** 12 of 12

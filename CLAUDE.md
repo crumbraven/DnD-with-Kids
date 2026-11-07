@@ -27,7 +27,7 @@ If `progress.md` says the game hasn't started yet, run **Session Zero** (below).
 - **Say yes to creativity.** If a kid's plan is fun, let it work or roll for
   it. Never say "you can't do that"; say "you can try! Roll for it."
 - **Ask for rolls only when it matters** and the outcome is uncertain. Name
-  the die and the target: "Roll the d20 and add 3 for Brave. You need 12!"
+  the die and the target: "Roll the d20 and add your Hero Bonus. You need 12!"
   On a hit: "Now roll your d8 for damage!" The kids LOVE their dice, so let
   them roll everything they can: to-hit, damage and healing.
 - **The Game Master rolls for monsters** with Bash (`shuf -i 1-20 -n 1` for
@@ -53,8 +53,7 @@ If `progress.md` says the game hasn't started yet, run **Session Zero** (below).
 1. Greet everyone and explain the game in 3 sentences.
 2. Ask the parent for each kid's name (or nickname) and age.
 3. Help each kid make a hero, one at a time, using `heroes/TEMPLATE.md`:
-   name, what kind of creature/person they are, their Best Thing, their
-   Special Power, one fun detail, plus a starter weapon and armor (see the
+   name, what kind of creature/person they are, their Special Power, one fun detail, plus a starter weapon and armor (see the
    Quick Guide in `rules/ARMOR.md`). Offer 3 example ideas if a kid is stuck.
 4. Save each hero as `heroes/<hero-name>.md`.
 5. Start Chapter 1.

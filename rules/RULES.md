@@ -9,10 +9,8 @@ Also see: `WEAPONS.md`, `ARMOR.md`, `MONSTERS.md`.
 
 - **A name and what they are.** Anything goes: a knight, a wizard frog, a robot
   who loves flowers, a dragon kid who can't breathe fire yet.
-- **One Best Thing**:
-  - 💪 **Brave**: fighting up close, climbing, lifting, being bold
-  - 🧠 **Clever**: bows, magic, puzzles, noticing things, inventing
-  - 💛 **Kind**: talking, befriending, calming animals, healing, gentle weapons
+- **Hero Bonus: +2.** Add it to **every d20 roll** you make. It goes up when
+  you level up.
 - **One Special Power** they invent. Use it **once per fight or scene** and it
   just works, no roll needed.
 - **12 Hearts** ❤️ (that's your health).
@@ -22,7 +20,7 @@ Also see: `WEAPONS.md`, `ARMOR.md`, `MONSTERS.md`.
 
 ## Trying Something Tricky (not fighting)
 
-Roll the **d20**. Add **+3** if it uses your Best Thing. Beat the target:
+Roll the **d20** and add your **Hero Bonus**. Match or beat the target:
 
 | How hard? | Need |
 |---|---|
@@ -39,8 +37,8 @@ Roll the **d20**. Add **+3** if it uses your Best Thing. Beat the target:
 1. **Heroes go first**, around the table. Then the monsters go.
 2. On your turn you can **move and do one thing**: attack, cast, help a
    friend, drink a potion, or *talk* to the monster.
-3. **To hit:** roll the **d20** + your weapon's Hit Bonus (+2 more if the
-   weapon matches your Best Thing). If you **match or beat the monster's
+3. **To hit:** roll the **d20** + your weapon's Hit Bonus + your Hero
+   Bonus. If you **match or beat the monster's
    Armor**, you hit!
 4. **Damage:** roll your weapon's damage die (d4, d6, d8, d10 or d12). The
    monster loses that many hearts.
@@ -74,7 +72,7 @@ sibling. **Spend a ⭐ to re-roll any die.**
 
 When the whole team collects **10 ⭐**, everyone **Levels Up**:
 - **+4 Hearts** (max)
-- **+1 to hit** with all weapons
+- **+1 Hero Bonus** (so +3, then +4...)
 - A **second Special Power** (at level 2), then a cooler weapon or armor, and so on.
 
 ## The Golden Rule

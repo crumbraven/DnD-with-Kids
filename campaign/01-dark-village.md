@@ -20,10 +20,10 @@ reward: a lifetime supply of Puddlebrook's famous honey buns.
   Moonwell on Hush Mountain. She gives the team **one Glow Lantern (empty)**
   and cookies. Clue: "On the night it went dark, I heard *singing*. Sad singing,
   from the mountain."
-- **The Big Lantern in the square**: a Clever roll (12+) notices the lantern
+- **The Big Lantern in the square**: a roll of 12+ notices the lantern
   glass is fine but a trail of **silver sparkle-dust** floats away from it
   toward the Whisperwood, like the light was *pulled* out.
-- **The Duck Pond**: the ducks are upset. Kind roll (12+) to talk with them:
+- **The Duck Pond**: the ducks are upset. Roll 12+ to talk with them:
   they saw "a stream of light flying through the sky toward the mountain."
   Quack the duck decides to join the party, whether they want him or not.
 - **A stranger's cart**: a goblin in a big hat is selling "Genuine Starlight,

@@ -24,7 +24,7 @@ Three water spirits rise from the river. They saw the starlight pass. They'll
 tell the heroes about Nimbus if the heroes solve a riddle:
 - "The more you take, the more you leave behind. What am I?" (*Footsteps*)
 - Easier version: "I'm full of holes but I still hold water. What am I?" (*A sponge*)
-If stuck, Clever roll (12+) for a hint.
+If stuck, Roll 12+ for a hint.
 
 Their secret: "The light was taken by a little moon dragon. She is not wicked.
 She is *afraid*." (This is a key moment. Let the kids talk about what that means.)

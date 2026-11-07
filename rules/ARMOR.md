@@ -8,7 +8,7 @@ you. Bigger is safer. Base Armor with no armor at all is **10**.
 | Armor | Armor # | Special |
 |---|---|---|
 | Everyday Clothes | 10 | Super comfy. +2 when sneaking or swimming. |
-| Wizard Robes | 11 | +1 to hit with Clever magic weapons. |
+| Wizard Robes | 11 | +1 to hit with magic weapons (wands, staffs, orbs). |
 | Padded Jacket | 11 | Quiet and warm. |
 | Leather Armor | 12 | The adventurer's classic. |
 | Chain Shirt | 14 | Jingles! −2 when sneaking. |
@@ -32,9 +32,9 @@ you. Bigger is safer. Base Armor with no armor at all is **10**.
 
 ## Quick Guide for New Heroes
 
-- **Brave hero:** Sword + Shield + Chain Shirt → Armor **16**, d8 damage.
-- **Brave smasher:** Battle Hammer + Leather → Armor **12**, d10 damage.
-- **Clever archer:** Short Bow + Leather → Armor **12**, shoots from far away.
-- **Clever wizard:** Spark Wand + Wizard Robes → Armor **11**, zaps from afar.
-- **Kind helper:** Shepherd's Staff + Padded Jacket → Armor **11**, trips foes.
-- **Kind defender:** Bubble Wand + Shield + Leather → Armor **14**.
+- **Knight:** Sword + Shield + Chain Shirt → Armor **16**, d8 damage.
+- **Smasher:** Battle Hammer + Leather → Armor **12**, d10 damage.
+- **Archer:** Short Bow + Leather → Armor **12**, shoots from far away.
+- **Wizard:** Spark Wand + Wizard Robes → Armor **11**, zaps from afar.
+- **Shepherd:** Shepherd's Staff + Padded Jacket → Armor **11**, trips foes.
+- **Bubble defender:** Bubble Wand + Shield + Leather → Armor **14**.
