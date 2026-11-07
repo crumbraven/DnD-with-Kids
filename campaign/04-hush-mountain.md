@@ -6,8 +6,8 @@
 
 ## Scene 1: The Climb
 A steep icy section. Let each hero say how they help the team get up:
-climbing, magic, building steps, carrying Quack. Three successes total gets
-everyone up. Each miss = a funny slide back down (lose 1 heart or drop an item).
+climbing, magic, building steps, carrying Quack. Three Brave or Clever rolls of 12+ get
+everyone up. Each miss = a funny slide back down (lose d4 hearts or drop an item).
 
 ## Scene 2: The Echo Cave
 A cave that echoes everything... but changes the words. Whatever the heroes
@@ -19,7 +19,7 @@ echoes.
 Grizzlewick is back (unless he was befriended), riding a rickety
 **Gadget-Golem** made of pots, pans and jars. He wants to catch the dragon and
 keep her so it stays dark forever and he gets rich.
-- The Golem has 4 "bolts". Each success knocks one loose.
+- Gadget-Golem stats are in `rules/MONSTERS.md` (Armor 15, 24 hearts).
 - Clever heroes might notice its off switch is labeled "DO NOT PRESS".
 - Kind heroes might convince Grizzlewick that being liked is better than being
   rich (he's never had a friend either).

@@ -1,61 +1,81 @@
 # Dice & Daring: The Whole Rulebook
 
-*All you need: one six-sided die (or Claude rolls for you). That's it.*
+*You need a regular dice set: d4, d6, d8, d10, d12 and d20.*
+*The **d20** decides IF something works. The other dice decide HOW MUCH.*
+
+Also see: `WEAPONS.md`, `ARMOR.md`, `MONSTERS.md`.
 
 ## Your Hero
 
-Every hero has:
-
 - **A name and what they are.** Anything goes: a knight, a wizard frog, a robot
   who loves flowers, a dragon kid who can't breathe fire yet.
-- **One Best Thing**, picked from these three:
-  - 💪 **Brave**: fighting, climbing, lifting, running, being bold
-  - 🧠 **Clever**: magic, puzzles, noticing things, remembering, inventing
-  - 💛 **Kind**: talking, making friends, calming animals, healing, cheering up
-- **One Special Power** they invent: something only they can do.
-  (Example: "I can talk to birds." "My shield glows and lights up the dark.")
-  You can use your Special Power **once per scene** and it just works,
-  no roll needed.
-- **3 Hearts** ❤️❤️❤️
+- **One Best Thing**:
+  - 💪 **Brave**: fighting up close, climbing, lifting, being bold
+  - 🧠 **Clever**: bows, magic, puzzles, noticing things, inventing
+  - 💛 **Kind**: talking, befriending, calming animals, healing, gentle weapons
+- **One Special Power** they invent. Use it **once per fight or scene** and it
+  just works, no roll needed.
+- **12 Hearts** ❤️ (that's your health).
+- **One weapon and one armor** from the Starter lists (a shield too, if you
+  have a free hand).
+- **Armor number** = your armor's number (+2 with a shield).
 
-## Rolling the Die
+## Trying Something Tricky (not fighting)
 
-When you try something tricky, roll one die:
+Roll the **d20**. Add **+3** if it uses your Best Thing. Beat the target:
 
-| Roll | What happens |
-|------|--------------|
-| **1** | Oops! Something silly or surprising happens. (The story keeps going!) |
-| **2–3** | Almost! It sort of works, but there's a catch. |
-| **4–5** | You do it! |
-| **6** | AMAZING! You do it in the coolest way possible, and maybe something extra good happens. |
+| How hard? | Need |
+|---|---|
+| Easy | 8 |
+| Normal | 12 |
+| Hard | 16 |
+| Super hard | 20 |
 
-**Add +1** if you're using your Best Thing.
-(A 5 plus 1 for your Best Thing counts as a 6: AMAZING!)
+- **Natural 1** (the die shows 1): Oops! Something silly happens.
+- **Natural 20**: AMAZING! It works in the coolest way possible.
+
+## Fighting
+
+1. **Heroes go first**, around the table. Then the monsters go.
+2. On your turn you can **move and do one thing**: attack, cast, help a
+   friend, drink a potion, or *talk* to the monster.
+3. **To hit:** roll the **d20** + your weapon's Hit Bonus (+2 more if the
+   weapon matches your Best Thing). If you **match or beat the monster's
+   Armor**, you hit!
+4. **Damage:** roll your weapon's damage die (d4, d6, d8, d10 or d12). The
+   monster loses that many hearts.
+5. **Natural 20 = Critical Hit!** Roll your damage die twice and add them.
+   **Natural 1** always misses (and something goofy happens).
+6. Monsters attack the same way: the Game Master rolls a d20 + the monster's
+   Attack against **your Armor**, then rolls the monster's damage die.
+
+**When a monster hits 0 hearts it is *Defeated*:** it runs away, gives up,
+falls asleep or poofs into smoke. Nothing dies. Many monsters can also be
+**befriended** instead (see `MONSTERS.md`).
 
 ## Teamwork
 
-If another hero helps, *they describe how* and you get **+1** more. Teamwork
-is the most powerful thing in the game.
+Instead of attacking, you can **Help** a friend: describe how, and they
+get **+2** on their next roll. Teamwork is the most powerful thing in the game.
 
 ## Hearts
 
-- Getting bonked, tripped or zapped can cost **1 heart**.
-- At **0 hearts** you're *Knocked Silly*: you're dizzy and seeing stars,
-  and you can't do anything until a friend helps you up (it takes their turn).
-  You come back with 1 heart.
-- A rest, a snack, or a Kind hero's help brings hearts back.
+- At **0 hearts** you're *Knocked Silly*. You're dizzy, seeing stars, and
+  can't act until a friend spends their turn helping you up. You come back with
+  **3 hearts**.
+- **A short rest** (a snack break in the story) brings back **d6 hearts**.
+  **A night's sleep** brings back all of them.
+- **Healing Potion**: brings back **2d4 hearts**.
 
-## Problems Have Many Answers
+## Stars ⭐ and Leveling Up
 
-Monsters and troubles can be solved by **fighting, tricking, or befriending**.
-All three are equally good. A grumpy troll might be beaten, outsmarted with a
-riddle, or turned into a friend with a really good sandwich.
+The Game Master hands out ⭐ for great ideas, teamwork, being funny or helping a
+sibling. **Spend a ⭐ to re-roll any die.**
 
-## Stars ⭐
-
-The Game Master gives a ⭐ for great ideas, teamwork, being funny, or helping
-a sibling. Spend a ⭐ to **re-roll** any die. When the whole team collects
-10 ⭐ together, everyone **levels up** and picks a *second* Special Power!
+When the whole team collects **10 ⭐**, everyone **Levels Up**:
+- **+4 Hearts** (max)
+- **+1 to hit** with all weapons
+- A **second Special Power** (at level 2), then a cooler weapon or armor, and so on.
 
 ## The Golden Rule
 

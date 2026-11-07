@@ -15,7 +15,7 @@ The path splits:
   mouse size for a few minutes! Silly fun: they meet a bossy beetle general
   who needs help finding his lost helmet (an acorn cap). Reward: a **Beetle
   Whistle** that summons a beetle army once.
-- **Right**: a patch of sticky honey-vines. Brave roll to pull free, or
+- **Right**: a patch of sticky honey-vines. Brave roll (12+) to pull free, or
   Clever to figure out that singing makes the vines relax.
 
 ## Scene 3: Grizzlewick's Trap
@@ -25,7 +25,7 @@ heart lost, just stuck and embarrassed). Grizzlewick pops out cackling:
 "Nobody's bringing back the light! When it's dark, everyone buys MY jars!"
 
 He has **2 goblin helpers, Snip and Snorkel**, who are clumsy and kind of nice.
-- Fight: Grizzlewick flees after 2 hits. The helpers surrender.
+- Fight: Grizzlewick (see `rules/MONSTERS.md`) flees at 5 hearts. The helpers surrender.
 - Trick: he can't resist a bargain or a bet.
 - Befriend: Snip and Snorkel can be convinced to switch sides! (If so, they
   become helpers who show up later with useful info.)
@@ -34,5 +34,5 @@ Let the kids free the fireflies. They float up and spell "THANK YOU" in the
 sky. ⭐ for everyone.
 
 ## Ending
-They camp under the stars. Kind roll or a cookie heals hearts. In the
+They camp under the stars. A night's sleep restores all hearts. In the
 distance, they hear the sad singing from the mountain for the first time.
