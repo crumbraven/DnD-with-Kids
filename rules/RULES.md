@@ -13,10 +13,29 @@ Also see: `WEAPONS.md`, `ARMOR.md`, `MONSTERS.md`.
   you level up.
 - **One Special Power** they invent. Use it **once per fight or scene** and it
   just works, no roll needed.
-- **12 Hearts** ❤️ (that's your health).
+- **12 Hearts** ❤️ (that's your health; 14 for boys and men).
 - **One weapon and one armor** from the Starter lists (a shield too, if you
   have a free hand).
 - **Armor number** = your armor's number (+2 with a shield).
+
+## Women & Men
+
+In this world:
+- **Girls and women** are better at magic: **+2 to hit** with magic weapons
+  (wands, staffs, orbs). Only they can perform **Healing Miracles** (below).
+- **Boys and men** are physically stronger: **+1 damage** with up-close
+  weapons, and **+2 max hearts** (they start with 14).
+
+## Healing Miracles ✨
+
+Healing is a gift from **God**, given only to girls and women.
+
+- A girl or woman hero has **3 Miracles** a day. They come back after a night's
+  sleep. Each level up adds **+1 Miracle**.
+- On her turn she prays and touches someone (or herself): they get back
+  **2d4 hearts**.
+- Used on a hero who is **Down**, they get right back up with those hearts.
+- A Miracle also cleans out **Zombie Rot** (see `MONSTERS.md`).
 
 ## Trying Something Tricky (not fighting)
 

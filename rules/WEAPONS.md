@@ -36,6 +36,15 @@ hero). Match or beat the target's Armor. Anyone can use any weapon. **Damage:** 
 | Lullaby Lute | +0 | d8 | 2 | Can put a monster to sleep instead of killing it. Can't be used if you're shouting. |
 | Shield Bash | +1 | d4 | (shield) | Works while holding a shield and another weapon, but it uses your turn. |
 
+## Gear & Holy Items
+
+| Item | Use |
+|---|---|
+| Torch | Lights the dark. Can be swung as a weapon: +0 to hit, d4 **fire** damage. |
+| Holy Water (flask) | Throw it: +2 to hit, **2d6** damage to undead (nothing to living things). Or pour it on a hero to clean out all their Zombie Rot. |
+| Healing Potion | Drink it: get back 2d4 hearts. |
+| Rope, lantern, crowbar | The basics. Help with climbing, light and stuck doors. |
+
 ## Treasure Weapons ✨ (found on adventures)
 
 | Weapon | Hit Bonus | Damage | Special |

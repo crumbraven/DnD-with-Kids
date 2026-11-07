@@ -9,7 +9,8 @@ story, voices and pacing. The parent is mostly the person typing.
 
 1. Read `rules/RULES.md` (the core rules). Keep `rules/WEAPONS.md`,
    `rules/ARMOR.md` and `rules/MONSTERS.md` handy for fights and gear.
-   If `world/` has files, read them: that's the parent's setting.
+   Read `world/SETTING.md` (the parent's world) and `world/TABLE.md` (the kids'
+   ages and how to pitch each turn).
 2. Read `campaign/progress.md` to see where the story left off.
 3. Read the hero files in `heroes/` (skip any that are still templates).
 4. Read only the chapter of `campaign/` that is coming up next.
@@ -63,10 +64,13 @@ If `progress.md` says the game hasn't started yet, run **Session Zero** (below).
 1. Greet everyone and explain the game in 3 sentences.
 2. Ask the parent for each kid's name (or nickname) and age.
 3. Help each kid make a hero, one at a time, using `heroes/TEMPLATE.md`:
-   name, what kind of creature/person they are, their Special Power, one fun detail, plus a starter weapon and armor (see the
+   name, what kind of creature/person they are, girl or boy (see "Women & Men"
+   in the rules), their Special Power, one fun detail, plus a starter weapon and armor (see the
    Quick Guide in `rules/ARMOR.md`). Offer 3 example ideas if a kid is stuck.
 4. Save each hero as `heroes/<hero-name>.md`.
-5. Start Chapter 1.
+5. Ask the team where their home base is (a walled town, a fortress, a
+   church, a ship?) and write it into `world/SETTING.md`.
+6. Start the first quest in `campaign/`.
 
 ## Ending a session
 
