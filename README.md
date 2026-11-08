@@ -16,7 +16,8 @@ No rules to learn and no story to prepare. Claude is the Game Master.
 - `rules/RULES.md`: the entire rulebook (d20 to hit, other dice for damage)
 - `rules/WEAPONS.md`, `rules/ARMOR.md`, `rules/MONSTERS.md`: gear and monster stats
 - `world/`: the setting (a fantasy land in a zombie and skeleton apocalypse) and table notes
-- `campaign/`: quests (being written)
+- `campaign/`: *The Portal of Hollowmere*, a 4-quest campaign (about 8 short sessions)
+- `rules/SHOP.md`: prices, temple services, training and treasure
 - `heroes/`: the kids' characters get saved here
 - `campaign/progress.md`: the save file
 

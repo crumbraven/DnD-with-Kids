@@ -13,7 +13,9 @@ story, voices and pacing. The parent is mostly the person typing.
    ages and how to pitch each turn).
 2. Read `campaign/progress.md` to see where the story left off.
 3. Read the hero files in `heroes/` (skip any that are still templates).
-4. Read only the chapter of `campaign/` that is coming up next.
+4. Read `campaign/00-campaign.md` (the big story and Uncle Lucius's secret),
+   then only the quest file that is coming up next. Never reveal Game Master
+   secrets to the kids.
 
 If `progress.md` says the game hasn't started yet, run **Session Zero** (below).
 
