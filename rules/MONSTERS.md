@@ -32,7 +32,9 @@ Tough armor → fewer hearts. Soft armor → more hearts.
 ### Undead Rules (apply to everything in this section)
 - **Undead never flee and never beg.** They fight until destroyed.
 - **Fire:** fire attacks (Fire Orb, Spark Wand, torches) do **+2 damage**.
-- **Holy Water** (see `WEAPONS.md`) does **2d6** to undead.
+- **Holy power destroys them.** A Healing Miracle's **Holy Burst** destroys
+  ordinary undead nearby instantly. **Holy damage** (holy water, blessed
+  weapons, holy spells) is **doubled** against them. See `RULES.md`.
 - **Skeletons** are weak to smashing: clubs, hammers, staffs and Shield Bash do
   **+2 damage**. Arrows, sling stones and daggers do **half** (round up).
 - **Zombie Rot:** when a zombie's bite hits, the hero also gets 1 **Rot**.
@@ -81,7 +83,7 @@ Tough armor → fewer hearts. Soft armor → more hearts.
 ### Wraith (ghost)
 **Armor 14 · Hearts 20 · Attack +5 · Damage d8** (cold touch)
 - Floats through walls. Ordinary weapons do **half damage**; magic, fire,
-  holy water and Healing-Miracle-blessed weapons do full damage.
+  holy water and blessed weapons do full damage.
 
 ### Bone Knight
 **Armor 17 · Hearts 30 · Attack +5 · Damage d10** (black greatsword)
@@ -100,6 +102,65 @@ Tough armor → fewer hearts. Soft armor → more hearts.
   (roll 12+ for half damage, no Rot).
 - Flies: in the air, only far-away and magic weapons reach it.
 - Smashing weapons do +2 (it's a skeleton).
+
+---
+
+## 🔥 DEMONS (from the portal to Hell)
+
+### Demon Rules
+- **Weak to holy:** holy damage is doubled, and a Healing Miracle's Holy Burst
+  deals **3d6** to every demon close by.
+- **Fire does nothing** to demons. They came from Hell.
+- Demons can **lie, bargain and tempt**. Never trust a deal with a demon.
+
+### Imp
+**Armor 13 · Hearts 6 · Attack +3 · Damage d4** (tiny pitchfork)
+- Flies, giggles, and steals small items. Comes in groups of 3–5.
+- **If it flees:** pops back into Hell with a puff of sulfur smoke.
+
+### Hellhound
+**Armor 13 · Hearts 16 · Attack +5 · Damage d8** (burning bite)
+- Fast: **goes first**. Hunts in pairs.
+- Once per fight: **Fire Breath** on one hero (d10, roll 12+ for half).
+
+### Demon Brute
+**Armor 15 · Hearts 30 · Attack +5 · Damage d10** (claws)
+- Big, horned and red. Attacks **twice** per round.
+- Hates holy water: if hit by it, it loses its next turn howling.
+
+### Shiva, Guardian of the Portal (FINAL BOSS)
+**Armor 17 · Hearts 90 · Attack +7 · Damage d12** (four burning blades)
+- A towering demon with **four arms**, each holding a blade of hellfire.
+- **Four Arms:** each round Shiva attacks **up to 4 times**, at different
+  heroes or the same one.
+- **Hellfire Ring** (at 45 hearts, once): fire bursts out. Every hero takes
+  **2d6** (roll 14+ for half).
+- **Call the Horde:** each round while the portal is open, **2 Shamblers**
+  crawl out of it.
+- **Weak to holy:** doubled holy damage, 3d6 from every Holy Burst. The Ark's
+  presence makes her **lose 1 attack per round**.
+- **Never flees.** If Shiva dies, she's dragged back into Hell screaming.
+
+### Uncle Lucius / The Devil
+**Disguised:** a kind old traveler. He doesn't fight; he "helps."
+**Revealed:** **Armor 18 · Hearts 66 · Attack +7 · Damage d10** (shadow-claws)
+- **Cannot be destroyed while the portal is open.** At 0 hearts he melts
+  into shadow, laughing, and reappears later.
+- **Lies:** once per fight he can make one hero believe something false
+  (roll 16+ to see through it). He might pretend a friend is a monster, or
+  say "your sister is in danger over there!"
+- **Bargains:** offers the heroes something they *really* want in exchange
+  for one small thing. It's always a trap.
+- **Weak to holy:** holy water makes him sneeze and smoke; Holy Burst deals
+  3d6.
+- **Banished forever** when the portal is destroyed.
+
+### The Hollowmere Coven (witches, living)
+**Armor 12 · Hearts 14 · Attack +4 · Damage d8** (hex bolt)
+- Most of the coven are **sorry and scared**. They didn't mean to do it.
+  Some might help the heroes; one or two have gone bad, tempted by Lucius.
+- Once per fight: **Hex**. A hero has −2 on all rolls until the end of their
+  next turn.
 
 ---
 

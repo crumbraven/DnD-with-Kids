@@ -3,7 +3,7 @@
 *You need a regular dice set: d4, d6, d8, d10, d12 and d20.*
 *The **d20** decides IF something works. The other dice decide HOW MUCH.*
 
-Also see: `WEAPONS.md`, `ARMOR.md`, `MONSTERS.md`.
+Also see: `WEAPONS.md`, `ARMOR.md`, `MONSTERS.md`, `SHOP.md`.
 
 ## Your Hero
 
@@ -28,14 +28,30 @@ In this world:
 
 ## Healing Miracles ✨
 
-Healing is a gift from **God**, given only to girls and women.
+Healing is a gift from God, granted to girls and women through the Church of
+the Son.
 
 - A girl or woman hero has **3 Miracles** a day. They come back after a night's
   sleep. Each level up adds **+1 Miracle**.
-- On her turn she prays and touches someone (or herself): they get back
-  **2d4 hearts**.
-- Used on a hero who is **Down**, they get right back up with those hearts.
-- A Miracle also cleans out **Zombie Rot** (see `MONSTERS.md`).
+- **Heal:** on her turn she prays and touches someone (or herself). They get
+  back **2d4 hearts**, and all their **Zombie Rot** is cleaned out. A hero who
+  is **Down** gets right back up.
+- **Holy Burst (every heal does this):** the holy light blazes out.
+  - Every **ordinary undead** close by (a few steps) is **destroyed
+    instantly**.
+  - **Big and Boss undead** (Bone Knight, Bone Dragon and the like) take **3d6**
+    instead.
+  - **Demons** close by take **3d6**.
+  - Other evil creatures *might* be hurt (Game Master decides: usually d6).
+- **Resurrection:** spend **2 Miracles at once** on a hero who has died (as
+  long as it's the same day). They come back to life with **half their
+  hearts**.
+- Girls can learn more miracles at temples (see `SHOP.md`).
+
+## Holy Damage 🌟
+
+Holy water, blessed weapons and holy spells deal **holy damage**. Holy damage
+is **doubled** against undead and demons: roll it, then double it!
 
 ## Trying Something Tricky (not fighting)
 
@@ -100,8 +116,21 @@ back up with those hearts. Or spend your turn next to them and roll **12+**
 to stop the bleeding: they stop making Dying Rolls and wake up after the fight
 with 1 heart.
 
-**If a hero dies,** the player makes a new hero who joins at the next scene,
-or the team can go on a quest to bring them back.
+**If a hero dies,** they can be brought back:
+- by a girl or woman hero using **Resurrection** (2 Miracles), or
+- at **any temple**, where a priestess will resurrect them for a donation
+  of **20 gold** (free if the team is broke; the Church is kind).
+
+Or the player can make a new hero who joins at the next scene.
+
+*The youngest hero at our table has **Grace** and can't die (see
+`world/TABLE.md`).*
+
+## Gold 💰
+
+Monsters, chests and grateful villagers give **gold coins**. Spend gold at
+shops and temples on weapons, armor, potions, holy water and training (see
+`SHOP.md`). The team can share or keep their own gold; each hero tracks theirs.
 
 ## Stars ⭐ and Leveling Up
 

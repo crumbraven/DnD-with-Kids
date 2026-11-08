@@ -41,7 +41,7 @@ hero). Match or beat the target's Armor. Anyone can use any weapon. **Damage:** 
 | Item | Use |
 |---|---|
 | Torch | Lights the dark. Can be swung as a weapon: +0 to hit, d4 **fire** damage. |
-| Holy Water (flask) | Throw it: +2 to hit, **2d6** damage to undead (nothing to living things). Or pour it on a hero to clean out all their Zombie Rot. |
+| Holy Water (flask) | Throw it: +2 to hit, **d6 holy damage**, doubled against undead and demons. Does nothing to ordinary living things. Or pour it on a hero to clean out all their Zombie Rot. |
 | Healing Potion | Drink it: get back 2d4 hearts. |
 | Rope, lantern, crowbar | The basics. Help with climbing, light and stuck doors. |
 
@@ -52,6 +52,8 @@ hero). Match or beat the target's Armor. Anyone can use any weapon. **Damage:** 
 | Glowblade | +2 | d8 | Glows like a lantern. |
 | Thunder Hammer | +1 | d10 | Critical hit knocks over *every* nearby monster. |
 | Starlight Bow | +2 | d8 | Arrows never miss on a roll of 18 or higher. |
+| Holy Light Wand | +2 | d6 | Every hit is **holy damage** (doubled vs undead and demons). |
+| Blessed Mace | +1 | d8 | Smashing **and** holy: perfect for skeletons. |
 | Wand of Many Colors | +2 | d10 | Each hit is a surprise color with a silly side effect. |
 | Friendship Flute | +2 | d8 | Defeated monsters become friends who help for one fight. |
 
