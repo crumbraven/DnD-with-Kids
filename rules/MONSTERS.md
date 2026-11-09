@@ -35,7 +35,7 @@ Tough armor → fewer hearts. Soft armor → more hearts.
 - **Holy power destroys them.** A Healing Miracle's **Holy Burst** destroys
   ordinary undead nearby instantly. **Holy damage** (holy water, blessed
   weapons, holy spells) is **doubled** against them. See `RULES.md`.
-- **Skeletons** are weak to smashing: clubs, hammers, staffs and Shield Bash do
+- **Skeletons** are weak to smashing: clubs, maces, flails, hammers, staffs and Shield Bash do
   **+2 damage**. Arrows, sling stones and daggers do **half** (round up).
 - **Zombie Rot:** when a zombie's bite hits, the hero also gets 1 **Rot**.
   Each Rot lowers your **max hearts by 1**. A Healing Miracle or Holy Water

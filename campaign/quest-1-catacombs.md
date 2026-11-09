@@ -16,8 +16,9 @@ about the portal.
 - **Mother Ilsa**: High Mother (High Priestess) of the town temple. Kind,
   stern, tired. Quest-giver.
 - **Anamata**: the High Mother's guard. A tall, steady temple warrior in
-  white-and-silver armor with a spear and a shield marked with the
-  sunburst. Few words, fierce loyalty, secretly soft-hearted (she's the one
+  white-and-silver armor marked with the sunburst. She wields a huge
+  **two-handed mace**, and sometimes switches to a spiked **flail** that she
+  whirls over her head. Few words, fierce loyalty, secretly soft-hearted (she's the one
   who feeds Pudding the cat extra treats). A good ally and a role model for
   brave girls.
 - **Pudding**: the temple's fat orange cat (born here, so orange like the
@@ -35,7 +36,8 @@ about the portal.
 > The temple bell is ringing in the middle of the night. *DONG. DONG. DONG.*
 > But nobody is pulling the rope. You run to the temple and find Mother Ilsa
 > on the steps, holding a lantern. Beside her stands her guard, Anamata, tall
-> and silent in silver armor, her spear still dusty with smashed bones. "They came up
+> and silent in silver armor, her great mace resting on
+> her shoulder, still dusty with smashed bones. "They came up
 > from the crypt again," she says. "Five of them this time. The knights are
 > away fighting at the walls. And Pudding, our temple cat, chased one down
 > the stairs and hasn't come back." She looks at each of you. "I need heroes
@@ -48,8 +50,9 @@ Water each.
 **Anamata stays behind** to guard the High Mother and hold the crypt door so
 nothing else gets up into the town. Before they go, she gives the heroes one
 piece of advice: "Smash the skeletons. Swords just make them angry." If a
-hero asks, she'll show them how to hold a shield (that hero gets +1 Armor
-for Room 1).
+hero asks, she'll show them how to put their whole body into a swing (that
+hero gets +1 to hit in Room 1). She'll even let a hero try lifting her great
+mace. It's *very* heavy.
 
 ## Uncle Lucius Appears
 

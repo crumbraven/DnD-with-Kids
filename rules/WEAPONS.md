@@ -13,6 +13,8 @@ hero). Match or beat the target's Armor. Anyone can use any weapon. **Damage:** 
 | Spear | +0 | d6 | 1 | Can poke things 1 step away, or be thrown. |
 | Sword | +0 | d8 | 1 | A true knight's blade. |
 | Battle Hammer | +0 | d10 | 2 | On a hit, small monsters get knocked over (lose their next turn). |
+| Flail | +0 | d8 | 1 | Swings around shields: ignores a target's shield bonus. Smashing. |
+| Great Mace | +0 | d10 | 2 | Smashing. On a critical hit, the target is knocked flat. Temple guards' favorite. |
 | Giant Axe | −1 | d12 | 2 | Can chop through doors and trees in one hit. |
 
 ## Far-Away & Magic Weapons

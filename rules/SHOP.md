@@ -13,6 +13,7 @@ apocalypse, merchants gotta merchant). Sell old gear for **half price**.
 | Spear | 5 | | Crossbow | 40 |
 | Sword | 20 | | Spark Wand | 20 |
 | Battle Hammer | 30 | | Frost Staff | 35 |
+| Flail | 20 | | Great Mace | 30 |
 | Giant Axe | 50 | | Fire Orb | 60 |
 | Shepherd's Staff | 5 | | Bubble Wand | 10 |
 | Lullaby Lute | 25 | | | |
