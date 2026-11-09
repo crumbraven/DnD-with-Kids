@@ -4,7 +4,7 @@
 
 ## Background (Game Master only)
 
-**Grandmother Morwen**, Elder of the Hollowmere coven, refused the ritual and
+**Grandmother Morwen**, Elder of the Xiphex coven, refused the ritual and
 fled to the **Floating Island** with her books. She knows the portal can only
 be destroyed by the holiest power in the world: **the Ark of the Covenant**,
 beneath the Castle Arc. Lucius knows she's there and has sent **Hellhounds**
@@ -121,9 +121,9 @@ Morwen makes tea (it tastes like clouds) and tells them:
   Arc**. Only the **Empress** can allow you to go there."
 - "The man who gave us the ritual... I never saw his face. But beware
   kindness that asks for nothing. It always wants something later."
-- She gives them a **Hollowmere cat** in a basket: sooty grey, with
+- She gives them a **Xiphex cat** in a basket: sooty grey, with
   **ember-orange eyes**, named **Cinder**. "When the time comes, Cinder will
-  take you home to Hollowmere, right past the horde."
+  take you home to Xiphex, right past the horde."
 - She sends them to the Castle Arc with a **gold-and-white cat** from there,
   **Sir Whiskerton**.
 - **Treasure:** Morwen gives one item from her chest to each hero. Let them

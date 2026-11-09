@@ -155,7 +155,7 @@ Tough armor → fewer hearts. Soft armor → more hearts.
   3d6.
 - **Banished forever** when the portal is destroyed.
 
-### The Hollowmere Coven (witches, living)
+### The Xiphex Coven (witches, living)
 **Armor 12 · Hearts 14 · Attack +4 · Damage d8** (hex bolt)
 - Most of the coven are **sorry and scared**. They didn't mean to do it.
   Some might help the heroes; one or two have gone bad, tempted by Lucius.

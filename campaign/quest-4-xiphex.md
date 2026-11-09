@@ -1,11 +1,11 @@
-# Quest 4: The Gates of Hollowmere (FINALE)
+# Quest 4: The Gates of Xiphex (FINALE)
 
-*Location: the witches' town of Hollowmere. Two sessions (or one long one).*
+*Location: the witches' town of Xiphex (say it "SHIFF-ecks"). Two sessions (or one long one).*
 
 ## Background (Game Master only)
 
-The Empress's army attacks the undead horde outside Hollowmere's walls. While
-the horde is busy, the heroes use **Cinder** (the Hollowmere cat) to slip
+The Empress's army attacks the undead horde outside Xiphex's walls. While
+the horde is busy, the heroes use **Cinder** (the Xiphex cat) to slip
 through the Veils, **carrying the Ark**, right into the town. They must cross
 the burning town to the **Portal Square**, where **Shiva** guards the portal
 and the **Devil** waits. Setting the Ark before the portal while a girl or
@@ -25,7 +25,7 @@ Most of the coven are still in town, hiding, sorry and scared.
 
 ## Opening (read aloud)
 
-> From the hilltop, you can see Hollowmere. The sky above it is red, like the
+> From the hilltop, you can see Xiphex. The sky above it is red, like the
 > inside of a fire. A ring of undead surrounds the town, thousands of them,
 > and below you, the Empress's army is lining up, banners snapping in the wind.
 > Horns blow. The army charges. Now's your chance. Four of you lift the Ark by
@@ -128,7 +128,7 @@ the one who says "Amen.")*
 > zombie lies down and is still. In the catacombs under your home town,
 > Old Bartholomew the skull starts singing.
 >
-> The sky above Hollowmere turns blue.
+> The sky above Xiphex turns blue.
 
 ## Epilogue
 
@@ -136,7 +136,7 @@ the one who says "Amen.")*
   named a **Champion of the Realm** and gets **500 gold** and their choice of
   any treasure weapon or armor.
 - Ask each kid: **"What does your hero do now?"**
-- Loose threads for future adventures: Wren becomes a witch of the new,
+- Loose threads for future adventures: Euonie becomes a witch of the new,
   better coven; the giant egg from the Floating Island hatches; the Devil's
   last words were "not yet"...
 

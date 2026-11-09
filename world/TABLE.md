@@ -15,7 +15,7 @@ the kid whose turn it is.
 
 She must never be out of the game. Her hero has **Grace**:
 - She **cannot die**. If she would fail her third Dying Roll, a golden light
-  surrounds her ("The Goddess is watching over you!") and she wakes up at the
+  surrounds her ("The Lady is watching over you!") and she wakes up at the
   end of the fight with 1 heart.
 - **While Down, she still gets a turn**: her cat companion (or a little burst
   of holy light) does something helpful, like distracting a monster (+2 for

@@ -17,9 +17,8 @@ there, guide them, and try to get them killed. At the Ark, he reveals himself.
 
 ## Cast
 
-- **The Empress**: good, wise, warm, a little fierce. Head of the Church of
-  the Son. *(Name TBD; suggest "Empress Seraphine" to the parent if none is
-  given.)*
+- **Empress Mondenkind** ("the Moonchild"): good, wise, warm, a little
+  fierce. Head of the Church of the Son.
 - **Sir Gideon**: the Empress's knight-captain, gruff and loyal. Trains boys.
 - **Sister Adah**: young priestess. Trains girls; goes with the team if no
   hero can perform miracles.
@@ -29,9 +28,9 @@ there, guide them, and try to get them killed. At the Ark, he reveals himself.
 
 > The throne room is so tall that birds fly near the ceiling. Sunlight pours
 > through windows of colored glass, painting the floor like a rainbow. At the
-> end of a long carpet sits a woman in white and gold, with a crown of
-> sunbursts. She stands up... and walks down to meet *you*. "I have heard
-> what you did in the catacombs," says the Empress. "Tell me why you've come."
+> end of a long carpet sits a woman in white and gold, with a silver crown
+> shaped like a crescent moon. She stands up... and walks down to meet *you*. "I have heard
+> what you did in the catacombs," says Empress Mondenkind. "Tell me why you've come."
 
 - Let the kids explain. The 13-year-old can do the talking, but the Empress
   should ask each kid one question ("And what is your cat's name, little one?").
@@ -126,7 +125,7 @@ each one leads to an encounter, then back:
   **+2 Armor**.
 - **He cannot be destroyed while the portal is open.** After **3 rounds**, or
   at 0 hearts, he melts into shadow: "You'll never get that box to
-  Hollowmere. I'll be waiting!"
+  Xiphex. I'll be waiting!"
 
 ## Room 5: Bearers of the Ark (reward)
 
@@ -139,9 +138,9 @@ each one leads to an encounter, then back:
 
 ## Conclusion
 
-> "The army marches for Hollowmere at dawn," says the Empress. "They will
+> "The army marches for Xiphex at dawn," says the Empress. "They will
 > fight the horde at the walls. But the Ark must reach the portal itself...
 > and only you can get it there." In its basket, Cinder the grey cat opens its
 > orange eyes and purrs.
 
-→ `quest-4-hollowmere.md`
+→ `quest-4-xiphex.md`

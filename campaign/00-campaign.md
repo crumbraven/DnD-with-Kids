@@ -1,10 +1,10 @@
-# Campaign: The Portal of Hollowmere
+# Campaign: The Portal of Xiphex
 
 *Four quests, each about two short sessions (30–60 minutes each).*
 
 ## The Story in One Breath (Game Master only)
 
-The dead are rising because a coven of witches in **Hollowmere** accidentally
+The dead are rising because a coven of witches in **Xiphex** accidentally
 opened a **portal to Hell**, guarded by the demon **Shiva**. The ritual was
 given to them by **Uncle Lucius**, a kindly old traveler who is really **the
 Devil**. To end the apocalypse, the heroes must:
@@ -17,7 +17,7 @@ Devil**. To end the apocalypse, the heroes must:
 3. **The Heart of the Arc** (`quest-3-castle-arc.md`): win the Empress's
    blessing, brave the labyrinth beneath the Castle Arc to reach the **Ark of
    the Covenant**, and survive Uncle Lucius's betrayal.
-4. **The Gates of Hollowmere** (`quest-4-hollowmere.md`): carry the Ark into
+4. **The Gates of Xiphex** (`quest-4-xiphex.md`): carry the Ark into
    the witches' town, defeat Shiva, and destroy the portal.
 
 ## Uncle Lucius Through the Campaign

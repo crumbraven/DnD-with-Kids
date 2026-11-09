@@ -28,7 +28,7 @@ In this world:
 
 ## Healing Miracles ✨
 
-Healing is a gift from God, granted to girls and women through the Church of
+Healing is a gift from God (the Goddess, "the Lady"), granted to girls and women through the Church of
 the Son.
 
 - A girl or woman hero has **3 Miracles** a day. They come back after a night's

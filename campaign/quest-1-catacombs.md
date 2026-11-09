@@ -6,9 +6,9 @@
 
 Three nights ago the old crypt beneath the town's temple **cracked open** into
 the deep catacombs, and skeletons have been climbing up at night. They aren't
-random. A witch who went bad, **Sister Morda**, is down there raising the dead
-to hunt a runaway: **Wren**, a 13-year-old apprentice witch from Hollowmere who
-fled through the catacombs after the ritual went wrong. Wren knows the truth
+random. A witch who went bad, **Sister Anamata**, is down there raising the dead
+to hunt a runaway: **Euonie**, a 13-year-old apprentice witch from Xiphex who
+fled through the catacombs after the ritual went wrong. Euonie knows the truth
 about the portal.
 
 ## Cast
@@ -21,8 +21,8 @@ about the portal.
   sweets. (Secretly the Devil; see `00-campaign.md`.)
 - **Old Bartholomew**: a talking skull in the catacombs. Not undead, just
   enchanted ages ago. Loves terrible jokes.
-- **Wren**: young witch, scared, brave, guilty. Ally.
-- **Sister Morda**: a bad witch, now a **Necromancer** (stats in
+- **Euonie**: young witch, scared, brave, guilty. Ally.
+- **Sister Anamata**: a bad witch, now a **Necromancer** (stats in
   `rules/MONSTERS.md`, hearts 25).
 
 ## Hook (read aloud)
@@ -112,26 +112,26 @@ likable.
 > On the floor, bones rattle and rise. "The little runaway is MINE," she
 > hisses. "And so are you."
 
-- **Sister Morda (Necromancer):** Armor 12 · Hearts 25 · Attack +5 · d8 dark
+- **Sister Anamata (Necromancer):** Armor 12 · Hearts 25 · Attack +5 · d8 dark
   bolt. She **raises 2 Shamblers every round** from the bones on the floor.
-  **If Morda dies, all her undead collapse.**
+  **If Anamata dies, all her undead collapse.**
 - She starts with **4 Shamblers** around her. She stays back on the altar steps.
 - **Pudding the cat** is hiding behind a pillar. A hero who goes to Pudding
   (roll 8+, or automatically for the 4-year-old) gets the cat to safety, and
-  Pudding swipes at Morda (she has −2 to hit next round).
-- Morda **can beg for mercy** at low hearts ("Please! He promised me power!
+  Pudding swipes at Anamata (she has −2 to hit next round).
+- Anamata **can beg for mercy** at low hearts ("Please! He promised me power!
   The old man, he promised!"). The heroes decide what to do with her.
-- **Treasure:** Morda's satchel: **4d6 gold**, a **Spark Wand**. On the old
+- **Treasure:** Anamata's satchel: **4d6 gold**, a **Spark Wand**. On the old
   chapel altar, under dust: a **Holy Light Wand** (`rules/WEAPONS.md`).
 
-## Room 5: Wren's Hiding Place (reward and revelation)
+## Room 5: Euonie's Hiding Place (reward and revelation)
 
 > Behind the altar, a little door. Inside, a girl about thirteen years old
 > holds up a shaking wand, her pointy hat crooked. "Stay back! I... oh. You're
 > not skeletons."
 
-- **Wren** tells the truth (let the 13-year-old ask the questions):
-  - The Hollowmere coven tried a ritual for a good harvest. It was the
+- **Euonie** tells the truth (let the 13-year-old ask the questions):
+  - The Xiphex coven tried a ritual for a good harvest. It was the
     wrong ritual. "It opened a door. A door to *Hell*. And something came
     through. Something with four arms. It's called **Shiva**."
   - "We got the ritual from a nice old man with a walking stick and a bag of
@@ -141,7 +141,7 @@ likable.
     knows how to close the portal, it's her."
   - How do you get to the Floating Island? "Catch one of its cats. Blue legs
     and belly, green back. I saw one in your town last week!"
-- Wren asks to stay at the temple. She can become a recurring friend.
+- Euonie asks to stay at the temple. She can become a recurring friend.
 
 ## Conclusion
 

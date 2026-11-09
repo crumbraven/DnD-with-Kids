@@ -17,7 +17,7 @@ brought back by miracles). Monsters die. Victories feel earned.
 
 ## What Caused It (Game Master secret!)
 
-A **coven of witches** in the town of **Hollowmere** *accidentally* opened a
+A **coven of witches** in the town of **Xiphex** *accidentally* opened a
 **portal to Hell** during a ritual. Through it pours the power that raises the
 dead, and through it came the demon **Shiva**, who now guards the portal with
 a horde of undead.
@@ -26,13 +26,14 @@ a horde of undead.
 given to them by a charming, kindly traveler named **Uncle Lucius**, who is
 really **the Devil** in disguise (see "The Betrayer" below).
 
-**The apocalypse can be ended** by reaching Hollowmere and destroying the
+**The apocalypse can be ended** by reaching Xiphex and destroying the
 portal.
 
 ## Faith: the Goddess, the Son, and the Church
 
-- The **Goddess** is the divine power of this world. *(TBD: is "God" who
-  grants miracles the same as the Goddess?)*
+- **God** and **the Goddess** are the same. God has no real gender, but
+  most people say **the Goddess**, **the Lady**, or **my Lady** ("Thank you,
+  my Lady!" "Lady preserve us!"). Use these in NPC speech.
 - Her **Son** built the **Castle Arc** and founded the **Church of the Son**,
   then **ascended to Heaven**.
 - The **Church of the Son** rules the realm. Its head is **the Empress**.
@@ -43,8 +44,9 @@ portal.
 
 ## The Empress
 
-A **good ruler** and the head of the Church of the Son. She lives in the
-**Castle Arc**. *(TBD: her name; Claude may suggest one to the parent.)*
+**Empress Mondenkind** (her name means **Moonchild**; common folk often
+call her "the Moonchild"). A **good ruler** and the head of the Church of the
+Son. She lives in the **Castle Arc**.
 
 ## Magic, Miracles and Holy Power
 
@@ -71,7 +73,7 @@ A **good ruler** and the head of the Church of the Son. She lives in the
 - Known cat colors:
   - **Blue legs and belly, green back** → born on the **Floating Island**.
   - *(Claude may invent more: e.g. a sooty grey cat with ember-orange eyes
-    from Hollowmere, a gold-and-white cat from the Castle Arc, a mossy cat
+    from Xiphex, a gold-and-white cat from the Castle Arc, a mossy cat
     from the deep woods.)*
 - Catching a cat is hard: they're quick, clever and slippery. It's a fun
   challenge with dice (see the quests).
@@ -89,7 +91,7 @@ A **good ruler** and the head of the Church of the Son. She lives in the
   poles.
 - **The Floating Island**: drifts in the sky. Reached by catching one of its
   blue-and-green cats.
-- **Hollowmere**: the witches' town, where the portal to Hell is open. Now
+- **Xiphex** (pronounced *SHIFF-ecks*): the witches' town, where the portal to Hell is open. Now
   surrounded by undead.
 - **The heroes' home base**: decided during character creation. It has a
   temple.
