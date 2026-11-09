@@ -13,8 +13,13 @@ about the portal.
 
 ## Cast
 
-- **Mother Anamata**: High Priestess of the town temple. Kind, stern, tired.
-  Quest-giver.
+- **Mother Ilsa**: High Mother (High Priestess) of the town temple. Kind,
+  stern, tired. Quest-giver.
+- **Anamata**: the High Mother's guard. A tall, steady temple warrior in
+  white-and-silver armor with a spear and a shield marked with the
+  sunburst. Few words, fierce loyalty, secretly soft-hearted (she's the one
+  who feeds Pudding the cat extra treats). A good ally and a role model for
+  brave girls.
 - **Pudding**: the temple's fat orange cat (born here, so orange like the
   temple's sandstone). Missing! Went down into the catacombs.
 - **Uncle Lucius**: a jolly old traveler with a walking stick and a bag of
@@ -28,8 +33,9 @@ about the portal.
 ## Hook (read aloud)
 
 > The temple bell is ringing in the middle of the night. *DONG. DONG. DONG.*
-> But nobody is pulling the rope. You run to the temple and find Mother Anamata
-> on the steps, holding a lantern and a broken skeleton arm. "They came up
+> But nobody is pulling the rope. You run to the temple and find Mother Ilsa
+> on the steps, holding a lantern. Beside her stands her guard, Anamata, tall
+> and silent in silver armor, her spear still dusty with smashed bones. "They came up
 > from the crypt again," she says. "Five of them this time. The knights are
 > away fighting at the walls. And Pudding, our temple cat, chased one down
 > the stairs and hasn't come back." She looks at each of you. "I need heroes
@@ -38,6 +44,12 @@ about the portal.
 
 **Reward offered:** 50 gold, free healing at the temple, and a flask of Holy
 Water each.
+
+**Anamata stays behind** to guard the High Mother and hold the crypt door so
+nothing else gets up into the town. Before they go, she gives the heroes one
+piece of advice: "Smash the skeletons. Swords just make them angry." If a
+hero asks, she'll show them how to hold a shield (that hero gets +1 Armor
+for Room 1).
 
 ## Uncle Lucius Appears
 
@@ -145,7 +157,9 @@ likable.
 
 ## Conclusion
 
-Back at the temple: Mother Anamata pays **50 gold** (and the Holy Water if they
+Back at the crypt door, Anamata is standing guard, surrounded by a pile of
+smashed bones; a few skeletons got past the heroes, and none got past her.
+She gives the heroes a rare smile and a nod. At the temple, Mother Ilsa pays **50 gold** (and the Holy Water if they
 haven't had it), heals everyone, and Pudding gets a hero's dinner. The crypt
 is sealed with a blessing. Hand out ⭐ generously.
 
