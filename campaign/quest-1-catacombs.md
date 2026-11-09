@@ -6,14 +6,14 @@
 
 Three nights ago the old crypt beneath the town's temple **cracked open** into
 the deep catacombs, and skeletons have been climbing up at night. They aren't
-random. A witch who went bad, **Sister Anamata**, is down there raising the dead
+random. A witch who went bad, **Sister Morda**, is down there raising the dead
 to hunt a runaway: **Euonie**, a 13-year-old apprentice witch from Xiphex who
 fled through the catacombs after the ritual went wrong. Euonie knows the truth
 about the portal.
 
 ## Cast
 
-- **Mother Ilsa**: High Priestess of the town temple. Kind, stern, tired.
+- **Mother Anamata**: High Priestess of the town temple. Kind, stern, tired.
   Quest-giver.
 - **Pudding**: the temple's fat orange cat (born here, so orange like the
   temple's sandstone). Missing! Went down into the catacombs.
@@ -22,13 +22,13 @@ about the portal.
 - **Old Bartholomew**: a talking skull in the catacombs. Not undead, just
   enchanted ages ago. Loves terrible jokes.
 - **Euonie**: young witch, scared, brave, guilty. Ally.
-- **Sister Anamata**: a bad witch, now a **Necromancer** (stats in
+- **Sister Morda**: a bad witch, now a **Necromancer** (stats in
   `rules/MONSTERS.md`, hearts 25).
 
 ## Hook (read aloud)
 
 > The temple bell is ringing in the middle of the night. *DONG. DONG. DONG.*
-> But nobody is pulling the rope. You run to the temple and find Mother Ilsa
+> But nobody is pulling the rope. You run to the temple and find Mother Anamata
 > on the steps, holding a lantern and a broken skeleton arm. "They came up
 > from the crypt again," she says. "Five of them this time. The knights are
 > away fighting at the walls. And Pudding, our temple cat, chased one down
@@ -112,16 +112,16 @@ likable.
 > On the floor, bones rattle and rise. "The little runaway is MINE," she
 > hisses. "And so are you."
 
-- **Sister Anamata (Necromancer):** Armor 12 · Hearts 25 · Attack +5 · d8 dark
+- **Sister Morda (Necromancer):** Armor 12 · Hearts 25 · Attack +5 · d8 dark
   bolt. She **raises 2 Shamblers every round** from the bones on the floor.
-  **If Anamata dies, all her undead collapse.**
+  **If Morda dies, all her undead collapse.**
 - She starts with **4 Shamblers** around her. She stays back on the altar steps.
 - **Pudding the cat** is hiding behind a pillar. A hero who goes to Pudding
   (roll 8+, or automatically for the 4-year-old) gets the cat to safety, and
-  Pudding swipes at Anamata (she has −2 to hit next round).
-- Anamata **can beg for mercy** at low hearts ("Please! He promised me power!
+  Pudding swipes at Morda (she has −2 to hit next round).
+- Morda **can beg for mercy** at low hearts ("Please! He promised me power!
   The old man, he promised!"). The heroes decide what to do with her.
-- **Treasure:** Anamata's satchel: **4d6 gold**, a **Spark Wand**. On the old
+- **Treasure:** Morda's satchel: **4d6 gold**, a **Spark Wand**. On the old
   chapel altar, under dust: a **Holy Light Wand** (`rules/WEAPONS.md`).
 
 ## Room 5: Euonie's Hiding Place (reward and revelation)
@@ -145,7 +145,7 @@ likable.
 
 ## Conclusion
 
-Back at the temple: Mother Ilsa pays **50 gold** (and the Holy Water if they
+Back at the temple: Mother Anamata pays **50 gold** (and the Holy Water if they
 haven't had it), heals everyone, and Pudding gets a hero's dinner. The crypt
 is sealed with a blessing. Hand out ⭐ generously.
 
